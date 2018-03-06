@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("哈哈");
 		System.out.println("hgr1.0");
 		System.out.println("第二次测试合并");
+		System.out.println("本地提交");
 	}
 }
