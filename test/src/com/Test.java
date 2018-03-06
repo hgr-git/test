@@ -6,5 +6,6 @@ public class Test {
 		
 		System.out.println("Hello Word!");
 		System.out.println("¹þ¹þ");
+		System.out.println("hgr1.0");
 	}
 }
